@@ -9,6 +9,6 @@ Simulation of an Ising Ring Chain (Generalized Hepp Coleman) Model which is util
 
 2. RDiagEvolOperator: In this file first the energy eigenvalues of the evolution operator of the excited state are stored into a variable and then a diagonal matrix is formed using this variable. Similarly for the ground state evolution operator and hence both the unitary matrices which dictate the evolution of the system from the intial state "Rgstate" is obtained. For varying vaues of lambda different unitary evolution matrices are calculated and the states evolved according to them and Loschmidt Echo calculated. 
 
-![losecho final](https://cloud.githubusercontent.com/assets/20701981/23200580/0d169a7e-f8fb-11e6-9ce1-3c98684da1a6.png)
+![3d actual](https://cloud.githubusercontent.com/assets/20701981/23200658/8abbff6e-f8fb-11e6-8fe0-c461d67818ed.png)
 
-A clear minima is observed when varying the interaction parameter. 
+A distinct minima is observed when varying the interaction parameter. 
